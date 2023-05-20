@@ -130,3 +130,97 @@ Delete a branch
     # git checkout master
     // Deleting local branch
     # git branch -D <branch name to be deleted>
+    
+    Advanced GitHub Command: A Guide for Developers
+
+GitHub is a popular platform for developers to collaborate, share and manage code. It provides a range of features that make it easy for developers to work together on projects. However, to make the most of GitHub, developers need to know how to use advanced GitHub commands.
+
+In this blog post, we will discuss some of the most useful advanced GitHub commands that developers can use to improve their workflow and collaboration on GitHub.
+
+1. Git Clone
+
+Git Clone is an advanced GitHub command that allows developers to create a copy of a repository on their local machine. This command is useful when working on a project with multiple contributors or when collaborating with other developers.
+
+To use Git Clone, simply type the following command in your terminal:
+
+```
+git clone [repository URL]
+```
+
+This will create a copy of the repository on your local machine. You can then make changes to the code and push them back to the repository.
+
+2. Git Pull
+
+Git Pull is another advanced GitHub command that allows developers to update their local repository with changes made by other contributors. This command is useful when working on a project with multiple contributors or when collaborating with other developers.
+
+To use Git Pull, simply type the following command in your terminal:
+
+```
+git pull
+```
+
+This will update your local repository with changes made by other contributors. You can then review the changes and make any necessary updates.
+
+3. Git Branch
+
+Git Branch is an advanced GitHub command that allows developers to create a new branch for their code changes. This command is useful when working on a project with multiple contributors or when collaborating with other developers.
+
+To use Git Branch, simply type the following command in your terminal:
+
+```
+git branch [branch name]
+```
+
+This will create a new branch for your code changes. You can then make changes to the code and push them back to the repository.
+
+4. Git Merge
+
+Git Merge is another advanced GitHub command that allows developers to merge changes from one branch to another. This command is useful when working on a project with multiple contributors or when collaborating with other developers.
+
+To use Git Merge, simply type the following command in your terminal:
+
+```
+git merge [branch name]
+```
+
+This will merge changes from one branch to another. You can then review the changes and make any necessary updates.
+
+5. Git Rebase
+
+Git Rebase is an advanced GitHub command that allows developers to reapply their changes on top of changes made by other contributors. This command is useful when working on a project with multiple contributors or when collaborating with other developers.
+
+To use Git Rebase, simply type the following command in your terminal:
+
+```
+git rebase [branch name]
+```
+
+This will reapply your changes on top of changes made by other contributors. You can then review the changes and make any necessary updates.
+
+6. Git Tag
+
+Git Tag is an advanced GitHub command that allows developers to create a tag for a specific version of their code. This command is useful when releasing a new version of a project.
+
+To use Git Tag, simply type the following command in your terminal:
+
+```
+git tag [tag name]
+```
+
+This will create a tag for a specific version of your code. You can then push the tag to the repository and release the new version of the project.
+
+7. Git Stash
+
+Git Stash is an advanced GitHub command that allows developers to save changes that are not ready to be committed. This command is useful when working on multiple features at once or when switching between branches.
+
+To use Git Stash, simply type the following command in your terminal:
+
+```
+git stash
+```
+
+This will save changes that are not ready to be committed. You can then switch between branches or work on other features.
+
+Conclusion
+
+In this blog post, we discussed some of the most useful advanced GitHub commands that developers can use to improve their workflow and collaboration on GitHub. These commands are essential for working on projects with multiple contributors or when collaborating with other developers. By using these commands, developers can make the most of GitHub and improve their productivity.
